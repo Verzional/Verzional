@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Verzional
 - 👀 I’m interested in Video Games
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Laravel & Kotlin
 - 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me verzional777@gmail.com
 
