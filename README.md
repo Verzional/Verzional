@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on [NPLC](https://github.com/Verzional/NPLC)
-- 👯 I’m looking to collaborate on Game Development
 - 📫 Reach me: [verzional777@gmail.com](mailto:verzional777@gmail.com)
+- 👯 I’m looking to collaborate on Game Development
 
 ## 🧰 Toolbox	
 [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
