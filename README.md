@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on [NPLC](https://github.com/Verzional/S0-NPLC-Category-2)
-- 📫 Reach me -> [verzional777@gmail.com](mailto:verzional777@gmail.com)
+- 📫 Reach me at [verzional777@gmail.com](mailto:verzional777@gmail.com)
 - 👯 I’m looking to collaborate on Game Development
 
 ## 🧰 Toolbox	
