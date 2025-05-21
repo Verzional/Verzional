@@ -19,9 +19,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Verzional&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
-[![YouTube](https://img.shields.io/badge/YouTube-%230077B5.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@verzional)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentinomg)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@verzional)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valentino.m.g)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentinomg)
 <a href="https://www.backloggd.com/u/Verzional">
     <img src="https://backloggd.b-cdn.net/logos/backloggd-logo-full.png" alt="Backloggd" height="20" style="vertical-align:middle;">
 </a>
