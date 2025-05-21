@@ -22,5 +22,5 @@
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentinomg)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valentino.m.g)
 <a href="https://www.backloggd.com/u/Verzional">
-    <img src="https://www.backloggd.com/packs/media/images/backloggd-logo-full-5cdba93625dfa851ff41d48ee86d836b.png" alt="Backloggd" height="20" style="vertical-align:middle;">
+    <img src="https://backloggd.b-cdn.net/logos/backloggd-logo-full.png" alt="Backloggd" height="20" style="vertical-align:middle;">
 </a>
