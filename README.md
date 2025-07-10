@@ -33,6 +33,7 @@
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
 
 ## 📊 GitHub Stats
 ![Verzional's GitHub stats](https://github-readme-stats.vercel.app/api?username=Verzional&show_icons=true&theme=radical)
