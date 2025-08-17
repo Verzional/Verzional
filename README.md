@@ -1,7 +1,7 @@
 # Hi there, I'm Verzional 👋
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [IMT SU Official Website](https://github.com/Verzional/SP-NJS-SU)
+- 🔭 I’m currently working on [IMT SU Official Website](https://github.com/IMT-SU-25-26/Web-Main)
 - 📫 Reach me at [verzional777@gmail.com](mailto:verzional777@gmail.com)
 - 👯 I’m looking to collaborate on Game Development
 
