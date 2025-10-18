@@ -37,6 +37,6 @@ Reach me at [verzional777@gmail.com](mailto:verzional777@gmail.com)
 </p>
 
 ## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Verzional&show_icons=true&theme=radical" alt="Verzional's GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Verzional&show_icons=true&theme=synthwave" alt="Verzional's GitHub stats"/>
 
 </div>
