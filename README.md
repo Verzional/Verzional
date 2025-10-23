@@ -1,7 +1,7 @@
 <div align="center">
 
 ## About Me
-I’m currently working on [IMT SU Official Website](https://github.com/IMT-SU-25-26/Web-Main)
+I’m currently working on [13th NPLC - Competitive Programming Website](https://github.com/IMT-SU-25-26/13th-NPLC-CP)
 
 Reach me at [verzional777@gmail.com](mailto:verzional777@gmail.com)
 
