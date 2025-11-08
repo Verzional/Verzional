@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frameworks & UI
 <p align="center">
@@ -43,7 +43,7 @@
 
 ### Core Tools
 <p align="center">
-    <img src="https://img.shields.io/badge/NextAuth.js-000000?logo=nextdotjs&logoColor=white" alt="NextAuth.js"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Auth.js-D853E6?logo=auth.js-white&logoColor=white" alt="Auth.js"/>
     <img src="https://img.shields.io/badge/Pusher-FF0080?logo=pusher&logoColor=white" alt="Pusher"/>
     <img src="https://img.shields.io/badge/Cloudinary-3448C3?logo=cloudinary&logoColor=white" alt="Cloudinary"/>
     <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=white" alt="React Hook Form"/>
