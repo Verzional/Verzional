@@ -71,7 +71,7 @@
 
 ## Stats
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=Verzional&theme=tokyonight" alt="GitHub Streak" width="50%" height="200px"/>
+    <img src="https://streak-stats.demolab.com/?user=Verzional&theme=tokyonight" alt="GitHub Streak" width="50%" height="210px"/>
     <img src="https://github-readme-stats.vercel.app/api?username=Verzional&show_icons=true&theme=tokyonight" alt="Verzional's GitHub Stats" width="48%" height="200px"/>
 </p>
 
