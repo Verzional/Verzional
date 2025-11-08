@@ -72,6 +72,7 @@
 
 ## 
 
+### Project I
 <p align="center">
     <a href="https://ctc.bebras.uc.ac.id" target="_blank">
         <img src="https://img.shields.io/badge/BEBRAS%20@%20UCS%20--%20C--THINK%20Competition-D853E6?style=for-the-badge&logoColor=white&color=DB191F" alt="CTC Bebras @ UC 2025"/>
@@ -92,6 +93,7 @@
 
 ##
 
+### Project II
 <p align="center">
     <a href="https://cp.nplc.ciputra.ac.id" target="_blank">
         <img src="https://img.shields.io/badge/13th%20NPLC%20@%20UCS%20--%20Competitive%20Programming-0A66C2?style=for-the-badge&logoColor=white&color=FCF551" alt="13th NPLC CP"/>
@@ -110,6 +112,7 @@
 
 ##
 
+### Project III
 <p align="center">
     <a href="https://simawa-imtuc.com" target="_blank">
         <img src="https://img.shields.io/badge/IMT%20SU%20@%20UCS%20--%20Official%20Website-EC5990?style=for-the-badge&logoColor=white&color=EC5990" alt="SimaWa IMT UC"/>
@@ -118,7 +121,7 @@
         <img src="https://img.shields.io/badge/GitHub%20Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="IMT Student Union's Official Website's GitHub Repository"/>
     </a>
     <br>
-    <p>IMT Student Union @ UCS's official website, featuring student activity management for the IMT department, handling event registration, competition registrations, student achievements, and event enrollments.</p>
+    <p>IMT Student Union @ UCS's official website, featuring student activity management, handling event registrations, competition registrations, student achievements, and event enrollments.</p>
     <img src="https://custom-icon-badges.demolab.com/badge/Auth.js-801DDA?logo=auth.js&logoColor=white" alt="Auth.js"/>
     <img src="https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white" alt="Zod"/>
     <img src="https://img.shields.io/badge/Cloudinary-3448C3?logo=cloudinary&logoColor=white" alt="Cloudinary"/>
