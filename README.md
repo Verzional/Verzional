@@ -44,6 +44,7 @@
 <p align="center">
     <img src="https://custom-icon-badges.demolab.com/badge/Auth.js-801DDA?logo=auth.js&logoColor=white" alt="Auth.js"/>
     <img src="https://img.shields.io/badge/Pusher-FF0080?logo=pusher&logoColor=white" alt="Pusher"/>
+    <img src="https://img.shields.io/badge/SWR-000000?logo=swr&logoColor=white" alt="SWR"/>
     <img src="https://img.shields.io/badge/Cloudinary-3448C3?logo=cloudinary&logoColor=white" alt="Cloudinary"/>
     <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=white" alt="React Hook Form"/>
 </p>
@@ -51,9 +52,16 @@
 ---
 
 ## Projects
+### All projects listed below are built with:
 <p align="center">
-    All projects listed below are deployed to and managed using:
+    <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres"/>
+    <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma"/>
 </p>
+
+### Deployed to and managed using:
 <p align="center">
     <img src="https://img.shields.io/badge/Ubuntu VPS-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu"/>
     <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" alt="Nginx"/>
@@ -62,7 +70,7 @@
     <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
 
-##
+## 
 
 <p align="center">
     <a href="https://ctc.bebras.uc.ac.id" target="_blank">
@@ -73,15 +81,11 @@
     </a>
     <br/>
     <p>A competition platform for UC Surabaya's Bebras C-Think Competition, featuring dynamic contest management, real-time question assignment via QR code scanning, and final round scoring.</p>
-    <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres"/>
-    <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma"/>
     <img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
     <img src="https://custom-icon-badges.demolab.com/badge/Auth.js-801DDA?logo=auth.js&logoColor=white" alt="Auth.js"/>
     <img src="https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white" alt="Zod"/>
     <img src="https://img.shields.io/badge/Pusher-FF0080?logo=pusher&logoColor=white" alt="Pusher"/>
+    <img src="https://img.shields.io/badge/SWR-000000?logo=swr&logoColor=white" alt="SWR"/>
     <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=white" alt="React Hook Form"/>
     <img src="https://img.shields.io/badge/Cloudinary-3448C3?logo=cloudinary&logoColor=white" alt="Cloudinary"/>
 </p>
@@ -97,14 +101,10 @@
     </a>
     <br/>
     <p>A competitive programming website built for UC Surabaya's 13th NPLC (National Programming and Logic Competition) featuring real-time contest timer, real-time leaderboard, user code submission/judging, and integrated discussion forums.</p>
-    <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres"/>
-    <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma"/>
     <img src="https://custom-icon-badges.demolab.com/badge/Auth.js-801DDA?logo=auth.js&logoColor=white" alt="Auth.js"/>
     <img src="https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white" alt="Zod"/>
     <img src="https://img.shields.io/badge/Pusher-FF0080?logo=pusher&logoColor=white" alt="Pusher"/>
+    <img src="https://img.shields.io/badge/SWR-000000?logo=swr&logoColor=white" alt="SWR"/>
     <img src="https://custom-icon-badges.demolab.com/badge/Judge0-1E2220?logo=judge0&logoColor=white" alt="Judge0"/>
 </p>
 
@@ -119,11 +119,6 @@
     </a>
     <br>
     <p>IMT Student Union @ UCS's official website, featuring student activity management for the IMT department, handling event registration, competition registrations, student achievements, and event enrollments.</p>
-    <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres"/>
-    <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma"/>
     <img src="https://custom-icon-badges.demolab.com/badge/Auth.js-801DDA?logo=auth.js&logoColor=white" alt="Auth.js"/>
     <img src="https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white" alt="Zod"/>
     <img src="https://img.shields.io/badge/Cloudinary-3448C3?logo=cloudinary&logoColor=white" alt="Cloudinary"/>
