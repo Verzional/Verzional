@@ -70,7 +70,11 @@
 ---
 
 ## Stats
-<img src="https://streak-stats.demolab.com/?user=Verzional&theme=tokyonight" alt="GitHub Streak"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Verzional&show_icons=true&theme=tokyonight" alt="Verzional's GitHub Stats"/>
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://streak-stats.demolab.com/?user=Verzional&theme=tokyonight" alt="GitHub Streak"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Verzional&show_icons=true&theme=tokyonight" alt="Verzional's GitHub Stats"/>
+  </div>
+</div>
 
 </div>
