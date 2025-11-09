@@ -45,8 +45,9 @@
     <img src="https://custom-icon-badges.demolab.com/badge/Auth.js-801DDA?logo=auth.js&logoColor=white" alt="Auth.js"/>
     <img src="https://img.shields.io/badge/Pusher-FF0080?logo=pusher&logoColor=white" alt="Pusher"/>
     <img src="https://img.shields.io/badge/SWR-000000?logo=swr&logoColor=white" alt="SWR"/>
-    <img src="https://img.shields.io/badge/Cloudinary-3448C3?logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Soketi-FFFFFF?logo=soketi&logoColor=white" alt="Soketi"/>
     <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=white" alt="React Hook Form"/>
+    <img src="https://img.shields.io/badge/Cloudinary-3448C3?logo=cloudinary&logoColor=white" alt="Cloudinary"/>
 </p>
 
 ---
@@ -87,6 +88,7 @@
     <img src="https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white" alt="Zod"/>
     <img src="https://img.shields.io/badge/Pusher-FF0080?logo=pusher&logoColor=white" alt="Pusher"/>
     <img src="https://img.shields.io/badge/SWR-000000?logo=swr&logoColor=white" alt="SWR"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Soketi-FFFFFF?logo=soketi&logoColor=white" alt="Soketi"/>
     <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=white" alt="React Hook Form"/>
     <img src="https://img.shields.io/badge/Cloudinary-3448C3?logo=cloudinary&logoColor=white" alt="Cloudinary"/>
 </p>
@@ -107,6 +109,7 @@
     <img src="https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white" alt="Zod"/>
     <img src="https://img.shields.io/badge/Pusher-FF0080?logo=pusher&logoColor=white" alt="Pusher"/>
     <img src="https://img.shields.io/badge/SWR-000000?logo=swr&logoColor=white" alt="SWR"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Soketi-FFFFFF?logo=soketi&logoColor=white" alt="Soketi"/>
     <img src="https://custom-icon-badges.demolab.com/badge/Judge0-1E2220?logo=judge0&logoColor=white" alt="Judge0"/>
 </p>
 
