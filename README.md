@@ -120,7 +120,7 @@
     <a href="https://simawa-imtuc.com" target="_blank">
         <img src="https://img.shields.io/badge/IMT%20SU%20@%20UCS%20--%20Official%20Website-EC5990?style=for-the-badge&logoColor=white&color=EC5990" alt="SimaWa IMT UC"/>
     </a>
-    <a href="https://github.com/IMT-SU-25-25/Web-Main" target="_blank">
+    <a href="https://github.com/IMT-SU-25-26/Web-Main" target="_blank">
         <img src="https://img.shields.io/badge/GitHub%20Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="IMT Student Union's Official Website's GitHub Repository"/>
     </a>
     <br>
