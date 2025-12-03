@@ -2,7 +2,7 @@
 
 ## About Me
 **Full-Stack Next.js Developer**
-<p>Focused on clean code and great performance</p>
+<p>Focused on clean code and performance</p>
 <p>Love diving into new tech and learning new things</p>
 
 ---
