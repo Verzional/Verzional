@@ -29,6 +29,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres"/>
     <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma"/>
     <img src="https://img.shields.io/badge/Prisma%20Accelerate-5A67D8?logo=prisma&logoColor=white" alt="Prisma Accelerate"/>
+    <img src="https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=black" alt="Drizzle"/>
 </p>
 
 ### Infrastructure & DevOps
