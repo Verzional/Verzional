@@ -1,7 +1,7 @@
 <div align="center">
 
 ## About Me
-**Full-Stack Next.js Developer**
+**Full-Stack Developer**
 <p>Focused on clean code and performance</p>
 <p>Love diving into new tech and learning new things</p>
 
